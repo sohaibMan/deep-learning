@@ -4,18 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ad0441ca-a5dc-461a-a80b-a25c5d221689" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Convolutional Neural Networks/main.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/regression/data/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/regression/data/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/copilot/chatSessions/00000000000.xd" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/copilot/chatSessions/00000000000.xd" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/copilot/chatSessions/xd.lck" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/copilot/chatSessions/xd.lck" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/classification/data/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/classification/data/README.md" afterDir="false" />
+    <list default="true" id="ad0441ca-a5dc-461a-a80b-a25c5d221689" name="Changes" comment="cnn - fcnn">
       <change beforePath="$PROJECT_DIR$/multi class classification.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/classification/multi class classification.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/regression.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/regression/regression.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -95,5 +85,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="cnn - fcnn" />
+    <option name="LAST_COMMIT_MESSAGE" value="cnn - fcnn" />
   </component>
 </project>
